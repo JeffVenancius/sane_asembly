@@ -22,5 +22,12 @@ A sane(?) superset of the assembly language that changes its mneumonics with mor
 |-+/=|IDIV|divide (signed)|
 |++|INC|increment|
 |--|DEC|decrement|
+|<<|SAL|bitwise shift left|
+|>>|SAR|bitwise shift right|
+|&|AND|bitwise and|
+|\||OR|bitwise or|
+|^|XOR|bitwise xor|
+|~|NOT|bitwise not|
+
 
 ## ...
